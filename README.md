@@ -28,7 +28,16 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://pratiktiwari.com/)
 ## Tech Stack
+<!--Images-->
 <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/bash.png" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" width="50px" height="50px"/>
+
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.png" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/javascript.png" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/logo192.png" width="50px" height="50px"/>
 <!--
 **pratikktiwari/pratikktiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
