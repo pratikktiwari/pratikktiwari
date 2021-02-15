@@ -30,9 +30,9 @@
 ## Tech Stack
 <!--Images-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/bash.png" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" width="50px" height="60px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" width="50px" height="60px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/bash.png"  height="60px"/>
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" width="50px" height="50px"/>
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" width="50px" height="50px"/>
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.jpg" width="50px" height="50px"/>
