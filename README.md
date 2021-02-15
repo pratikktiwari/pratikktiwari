@@ -8,6 +8,10 @@
     <td>Shorten URL</td>
     <td>https://effortcatalyst.online/short/</td>
   </tr>
+  <tr>
+    <td>Birthday Wisher</td>
+    <td>https://effortcatalyst.online/gift/?q=laptop&m=PKT</td>
+  </tr>
 </table>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://github.com/pratikktiwari/github-readme-stats)
