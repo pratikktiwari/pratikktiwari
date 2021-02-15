@@ -30,14 +30,14 @@
 ## Tech Stack
 <!--Images-->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" width="50px" height="60px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" width="50px" height="60px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" height="60px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" height="60px"/>
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/bash.png"  height="60px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.jpg" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/javascript.png" width="50px" height="50px"/>
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/logo192.png" width="50px" height="50px"/>  
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" height="50px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" height="50px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.jpg" height="50px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/javascript.png" height="50px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/logo192.png" height="50px"/>  
 </p>
 <!--
 **pratikktiwari/pratikktiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
