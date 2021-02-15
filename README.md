@@ -25,7 +25,7 @@
     <td>https://effortcatalyst.online/websites/recipe_search/</td>
   </tr>
 </table>
-
+  <br/>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://pratiktiwari.com/)
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/coding-comp.gif" align="right" height="200px"/>
