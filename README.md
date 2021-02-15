@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://github.com/pratikktiwari/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://pratiktiwari.com/)
 <!--
 **pratikktiwari/pratikktiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
