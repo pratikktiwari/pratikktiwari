@@ -9,8 +9,20 @@
     <td>https://effortcatalyst.online/short/</td>
   </tr>
   <tr>
+    <td>Time Table Manager - Chrome Extension</td>
+    <td>https://pratiktiwari.com/time-table-manager/</td>
+  </tr>
+  <tr>
+    <td>Placement Assistance Chatbot</td>
+    <td>https://placementbot.pythonanywhere.com/</td>
+  </tr>
+  <tr>
     <td>Birthday Wisher</td>
     <td>https://effortcatalyst.online/gift/?q=laptop&m=PKT</td>
+  </tr>
+  <tr>
+    <td>Recipe Search</td>
+    <td>https://effortcatalyst.online/websites/recipe_search/</td>
   </tr>
 </table>
 
