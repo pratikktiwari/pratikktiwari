@@ -28,7 +28,7 @@
 
   <br/><br/><br/>
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://pratiktiwari.com/)
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/coding-comp.gif" align="right" height="100px"/>
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/coding-comp.gif" align="right" height="200px"/>
 ## Tech Stack
 <!--Images-->
 <p align="center">
