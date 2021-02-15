@@ -3,6 +3,16 @@ Make your CV  :point_right: https://makemycv.online
 <br/>
 Shorten URL :point_right: https://effortcatalyst.online/short/
 <br/><br/>
+<table>
+  <tr>
+    <td>Make your CV</td>
+    <td>https://makemycv.online</td>
+  </tr>
+  <tr>
+    <td>Make your CV</td>
+    <td>https://makemycv.online</td>
+  </tr>
+</table>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://github.com/pratikktiwari/github-readme-stats)
 <!--
