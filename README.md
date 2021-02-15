@@ -1,16 +1,12 @@
 ### Front-end Developer  :computer:
-Make your CV  :point_right: https://makemycv.online
-<br/>
-Shorten URL :point_right: https://effortcatalyst.online/short/
-<br/><br/>
 <table>
   <tr>
     <td>Make your CV</td>
     <td>https://makemycv.online</td>
   </tr>
   <tr>
-    <td>Make your CV</td>
-    <td>https://makemycv.online</td>
+    <td>Shorten URL</td>
+    <td>https://effortcatalyst.online/short/</td>
   </tr>
 </table>
 
