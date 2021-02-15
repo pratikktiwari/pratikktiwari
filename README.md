@@ -1,7 +1,6 @@
 ### Front-end Developer  :computer:
-Make your CV Here  :point_down:
-<br/>
-https://makemycv.online
+Make your CV Here  :point_right: https://makemycv.online
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://github.com/pratikktiwari/github-readme-stats)
 <!--
