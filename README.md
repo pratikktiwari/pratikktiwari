@@ -28,7 +28,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://pratiktiwari.com/)
 ## Tech Stack
-<img src="https://www.php.net/images/logos/php-logo.svg" style="width:50px;height50px;"/>PHP
+<img src="https://www.php.net/images/logos/php-logo.svg" width="50px" height="50px"/>PHP
 <!--
 **pratikktiwari/pratikktiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
