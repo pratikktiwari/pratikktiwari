@@ -35,7 +35,7 @@
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/bash.png"  height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" height="30px"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.jpg" height="30px"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.webp" height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/javascript.png" height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/logo192.png" height="30px"/>  &nbsp;&nbsp;&nbsp;
 </p>
