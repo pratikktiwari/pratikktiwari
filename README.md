@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" width="50px" height="50px"/>
 
-<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.png" width="50px" height="50px"/>
+<img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.jpg" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/javascript.png" width="50px" height="50px"/>
 <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/logo192.png" width="50px" height="50px"/>
 <!--
