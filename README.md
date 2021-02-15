@@ -1,6 +1,8 @@
 ### Front-end Developer  :computer:
-Make your CV Here  :point_right: https://makemycv.online
-
+Make your CV  :point_right: https://makemycv.online
+<br/>
+Shorten URL :point_right: https://effortcatalyst.online/short/
+<br/><br/>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://github.com/pratikktiwari/github-readme-stats)
 <!--
