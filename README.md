@@ -1,7 +1,7 @@
 ### Front-end Developer  :computer:
 <table>
   <tr>
-    <td>Make your CV</td>
+    <td>Make My CV</td>
     <td>https://makemycv.online</td>
   </tr>
   <tr>
