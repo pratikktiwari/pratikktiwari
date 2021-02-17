@@ -1,8 +1,16 @@
 ### Front-end Developer  :computer:
 <table>
   <tr>
+    <td>Portfolio</td>
+    <td>https://pratiktiwari.com</td>
+  </tr>
+  <tr>
     <td>Make My CV</td>
     <td>https://makemycv.online</td>
+  </tr>
+  <tr>
+    <td>Web Development Org.</td>
+    <td>https://effortcatalyst.online/td>
   </tr>
   <tr>
     <td>Shorten URL</td>
