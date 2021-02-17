@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>Web Development Org.</td>
-    <td>https://effortcatalyst.online/td>
+    <td>https://effortcatalyst.online</td>
   </tr>
   <tr>
     <td>Shorten URL</td>
