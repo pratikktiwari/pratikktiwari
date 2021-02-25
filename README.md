@@ -33,7 +33,7 @@
     <td>https://effortcatalyst.online/websites/recipe_search/</td>
   </tr>
 </table>
-<h3>Sec</h3>  :computer:
+<h3>Sec :computer: </h3>  
 <table>
   <tr>
     <td>Clickjacking Demo</td>
