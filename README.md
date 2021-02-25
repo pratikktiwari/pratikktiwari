@@ -39,6 +39,10 @@
     <td>Clickjacking Demo</td>
     <td>https://pratikktiwari.github.io/xss/clickjacking/index.html</td>
   </tr>
+  <tr>
+    <td>XSS - Easy</td>
+    <td>https://pratikktiwari.github.io/xss/index.html</td>
+  </tr>
  </table>
   <br/>
   
