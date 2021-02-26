@@ -43,6 +43,10 @@
     <td>DOM based XSS - Challenges</td>
     <td>https://pratikktiwari.github.io/xss/</td>
   </tr>
+  <tr>
+    <td>Linux Terminal Emulation</td>
+    <td>https://pratikktiwari.github.io/</td>
+  </tr>
  </table>
   <br/>
   
