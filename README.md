@@ -37,11 +37,11 @@
 <table>
   <tr>
     <td>Clickjacking Demo</td>
-    <td>https://pratikktiwari.github.io/xss/clickjacking/index.html</td>
+    <td>https://pratikktiwari.github.io/xss/clickjacking/</td>
   </tr>
   <tr>
     <td>DOM based XSS - Challenges</td>
-    <td>https://pratikktiwari.github.io/xss/index.html</td>
+    <td>https://pratikktiwari.github.io/xss/</td>
   </tr>
  </table>
   <br/>
