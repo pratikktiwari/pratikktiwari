@@ -47,6 +47,10 @@
     <td>Linux Terminal Emulation</td>
     <td>https://pratikktiwari.github.io/</td>
   </tr>
+  <tr>
+    <td>Freeze your browser</td>
+    <td>https://pratikktiwari.github.io/xss/freeze-browser/</td>
+  </tr>
  </table>
   <br/>
   
