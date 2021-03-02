@@ -33,9 +33,10 @@
     <td>https://effortcatalyst.online/websites/recipe_search/</td>
   </tr>
 </table>
+<br/>
 <h3>Sec :computer: :warning: </h3>
 <h4> Cyber Security practice & demo :warning: Stay vigilant :warning:</h4>
-<br/><br/>
+<br/>
 <table>
   <tr>
     <td>Clickjacking Demo</td>
