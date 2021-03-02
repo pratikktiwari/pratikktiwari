@@ -51,6 +51,11 @@
     <td>Freeze your browser</td>
     <td>https://pratikktiwari.github.io/xss/freeze-browser/</td>
   </tr>
+  <tr>
+    <td>Phishing web page</td>
+    <td>https://pratikktiwari.github.io/xss/phishing/instagram/</td>
+  </tr>
+  
  </table>
   <br/>
   
