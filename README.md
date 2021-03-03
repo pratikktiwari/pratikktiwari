@@ -66,7 +66,8 @@
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikktiwari)](https://pratiktiwari.com/)
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/codingCoffee.gif" align="right" height="200px"/>
   
-  [![Visitor Count](https://profile-counter.glitch.me/pratikktiwari/count.svg)](https://pratiktiwari.com)
+  Visitor Count [![Visitor Count](https://profile-counter.glitch.me/pratikktiwari/count.svg)](https://pratiktiwari.com)
+  <br/>
   
 ## Tech Stack
 <!--Images-->
