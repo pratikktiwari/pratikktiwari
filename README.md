@@ -13,6 +13,10 @@
     <td>https://effortcatalyst.online</td>
   </tr>
   <tr>
+    <td>Event Invitation</td>
+    <td>https://pratikktiwari.github.io/Event-Invitation/</td>
+  </tr>
+  <tr>
     <td>Shorten URL</td>
     <td>https://effortcatalyst.online/short/</td>
   </tr>
