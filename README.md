@@ -85,7 +85,7 @@
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" height="30px"/>&nbsp;&nbsp;&nbsp;
-  <br/>
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/pratikktiwari.png" height="50px"/>
 </p>
 <!--
