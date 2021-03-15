@@ -88,7 +88,7 @@
 </p>
 <br/>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/pratikktiwari.png)](https://pratiktiwari.com)
+[![TryHackMe](https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/pratikktiwari.png)](https://pratiktiwari.com)
 <!--
 **pratikktiwari/pratikktiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
