@@ -86,7 +86,7 @@
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" height="30px"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" height="30px"/>&nbsp;&nbsp;&nbsp;
   <br/><br/>
-  <a href="https://tryhackme.com/p/pratikktiwari"><img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/pratikktiwari.png" height="50px"/></a>
+  <a href="https://tryhackme.com/p/pratikktiwari" target="_blank"><img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/pratikktiwari.png" height="50px"/></a>
 </p>
 <!--
 **pratikktiwari/pratikktiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
