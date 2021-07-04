@@ -37,6 +37,10 @@
     <td>Recipe Search</td>
     <td>https://effortcatalyst.online/websites/recipe_search/</td>
   </tr>
+  <tr>
+    <td>Quiz - web app | Typescript</td>
+    <td>https://pratikktiwari.github.io/Quiz-app-typescript/</td>
+  </tr>
 </table>
 <br/>
 <h3>Sec :computer: :warning: </h3>
