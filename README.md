@@ -36,7 +36,8 @@
   </tr>
   <tr>
     <td>Recipe Search</td>
-    <td>https://effortcatalyst.online/websites/recipe_search/</td>
+<!--     <td>https://effortcatalyst.online/websites/recipe_search/</td> -->
+    <td>-</td>
   </tr>
   <tr>
     <td>Quiz - web app | Typescript</td>
