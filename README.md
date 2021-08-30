@@ -9,17 +9,17 @@
     <td>Make My CV</td>
     <td>https://makemycv.online</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>Web Development Org.</td>
     <td>https://effortcatalyst.online</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>Event Invitation</td>
     <td>https://pratikktiwari.github.io/Event-Invitation/</td>
   </tr>
   <tr>
     <td>Shorten URL</td>
-    <td>https://effortcatalyst.online/short/</td>
+    <td><!--https://effortcatalyst.online/short/-->-</td>
   </tr>
   <tr>
     <td>Time Table Manager - Chrome Extension</td>
@@ -31,7 +31,8 @@
   </tr>
   <tr>
     <td>Birthday Wisher</td>
-    <td>https://effortcatalyst.online/gift/?q=laptop&m=PKT</td>
+    <td>-</td>
+<!--     <td>https://effortcatalyst.online/gift/?q=laptop&m=PKT</td> -->
   </tr>
   <tr>
     <td>Recipe Search</td>
