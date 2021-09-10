@@ -18,8 +18,8 @@
     <td>https://pratikktiwari.github.io/Event-Invitation/</td>
   </tr>
   <tr>
-    <td>Shorten URL</td>
-    <td><!--https://effortcatalyst.online/short/-->-</td>
+    <td>Shorten URL (revamping)</td>
+    <td>https://shortener-url.azurewebsites.net-</td>
   </tr>
   <tr>
     <td>Time Table Manager - Chrome Extension</td>
