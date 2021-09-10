@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>Shorten URL (revamping)</td>
-    <td>https://shortener-url.azurewebsites.net-</td>
+    <td>https://shortener-url.azurewebsites.net</td>
   </tr>
   <tr>
     <td>Time Table Manager - Chrome Extension</td>
