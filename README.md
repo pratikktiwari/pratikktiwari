@@ -18,8 +18,8 @@
     <td>https://pratikktiwari.github.io/Event-Invitation/</td>
   </tr>
   <tr>
-    <td>Shorten URL (revamping)</td>
-    <td>https://shortener-url.azurewebsites.net</td>
+    <td>Shorten URL</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Time Table Manager - Chrome Extension</td>
