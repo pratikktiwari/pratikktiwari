@@ -6,7 +6,11 @@
     <td>https://pratiktiwari.com</td>
   </tr>
   <tr>
-    <td>Make My CV</td>
+    <td>Make My CV (in dev)</td>
+    <td>https://test.makemycv.online</td>
+  </tr>
+  <tr>
+    <td>Make My CV (stable)</td>
     <td>https://makemycv.online</td>
   </tr>
 <!--   <tr>
