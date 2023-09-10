@@ -7,15 +7,15 @@
   </tr>
   <tr>
     <td>Make My CV (in dev)</td>
-    <td>https://test.makemycv.online</td>
+    <td>https://test.makemycv.online [Inactive]</td>
   </tr>
   <tr>
     <td>Make My CV (stable)</td>
-    <td>https://makemycv.online</td>
+    <td>https://makemycv.online [Inactive]</td>
   </tr>
 <!--   <tr>
     <td>Web Development Org.</td>
-    <td>https://effortcatalyst.online</td>
+    <td>https://effortcatalyst.online [Inactive]</td>
   </tr> -->
   <tr>
     <td>Event Invitation</td>
