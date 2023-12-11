@@ -1,47 +1,44 @@
 ### Front-end Developer  :computer:
 <!--##### Trying to be a good 🖋️🖊️ tester-->
+
+https://pratiktiwari.com/#/portfolio
+
 <table>
   <tr>
     <td>Portfolio</td>
     <td>https://pratiktiwari.com</td>
   </tr>
   <tr>
-    <td>Make My CV (in dev)</td>
-    <td>https://test.makemycv.online [Inactive]</td>
+    <td>Expense Tracker</td>
+    <td>https://pratiktiwari.com/#/portfolio/expense-tracker</td>
   </tr>
   <tr>
-    <td>Make My CV (stable)</td>
-    <td>https://makemycv.online [Inactive]</td>
+    <td>Make My CV</td>
+    <td>https://pratiktiwari.com/#/portfolio/resume-builder</td>
   </tr>
-<!--   <tr>
-    <td>Web Development Org.</td>
-    <td>https://effortcatalyst.online [Inactive]</td>
-  </tr> -->
   <tr>
     <td>Event Invitation</td>
     <td>https://pratikktiwari.github.io/Event-Invitation/</td>
   </tr>
   <tr>
-    <td>Shorten URL</td>
+    <td>URL Shortener</td>
     <td>-</td>
   </tr>
   <tr>
     <td>Time Table Manager - Chrome Extension</td>
-    <td>https://pratiktiwari.com/time-table-manager/</td>
+    <td>https://pratiktiwari.com/#/portfolio/time-table-manager</td>
   </tr>
   <tr>
     <td>Placement Assistance Chatbot</td>
-    <td>https://placementbot.pythonanywhere.com/</td>
+    <td>https://pratiktiwari.com/#/portfolio/placement-assistance-chat-bot</td>
   </tr>
   <tr>
     <td>Birthday Wisher</td>
     <td>-</td>
-<!--     <td>https://effortcatalyst.online/gift/?q=laptop&m=PKT</td> -->
   </tr>
   <tr>
     <td>Recipe Search</td>
-<!--     <td>https://effortcatalyst.online/websites/recipe_search/</td> -->
-    <td>-</td>
+    <td>https://pratiktiwari.com/#/portfolio/recipe-search</td>
   </tr>
   <tr>
     <td>Quiz - web app | Typescript</td>
