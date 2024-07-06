@@ -1,4 +1,4 @@
-### Front-end Developer  :computer:
+### Developer, SRE  :computer:
 <!--##### Trying to be a good 🖋️🖊️ tester-->
 
 https://pratiktiwari.com/#/portfolio
