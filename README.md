@@ -35,6 +35,8 @@ I’m a full-stack developer and Site Reliability Engineer with a knack for buil
 | Project | Description | Link |
 |--------|-------------|------|
 | **Portfolio** | My digital hub | [pratiktiwari.com](https://pratiktiwari.com) |
+| **HireTip** | AI based career platform | [hiretip.co](https://hiretip.co) |
+| **HireTip Tips** | Career hiring tips & blogs | [hiretip.co/tips](https://hiretip.co/tips) |
 | **DevTonics** | A place where Dev & Ops meet | [devtonics.in](devtonics.in) |
 | **Expense Tracker** | Minimal and intuitive expense manager | [View](https://pratiktiwari.com/#/portfolio/expense-tracker) |
 | **Make My CV** | A resume builder with custom layouts and export options | [View](https://pratiktiwari.com/#/portfolio/resume-builder) |
