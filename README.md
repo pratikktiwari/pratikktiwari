@@ -1,113 +1,80 @@
 
-
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
-
 <i class="ci ci-spotify ci-2x"></i>
-
-<h1 align="center">Hey there, I'm Pratik 👋</h1>
+<h1 align="center">Hi, I’m Pratik Tiwari 👋</h1>
 
 <p align="center">
-  <em>Turning tea ☕ into code 💻 since 2018 — still brewing.</em><br/>
-  <strong>Developer · SRE · Security Enthusiast</strong>
+  Software Engineer · SRE · Security Enthusiast<br/>
+  I build reliable systems, practical tooling, and developer-first products.
 </p>
 
 ---
 
-### 🧠 About Me
+## About
 
-I’m a full-stack developer and Site Reliability Engineer with a knack for building things that solve real-world problems — from productivity tools to cyber security demos.
+I’m a software engineer with 6+ years of experience across backend development, infrastructure, and reliability engineering.  
+I enjoy working on systems that are **predictable in production**, **clean in design**, and **useful long after they’re built**.
 
-- 💼 6+ years of development experience
-- 🚀 Automating reliability, performance, and deployment pipelines
-- 🔒 Practicing and demonstrating web security concepts
-- ✨ Obsessed with crafting clean UIs and meaningful UX
+My interests sit at the intersection of:
+- frontend & backend engineering
+- infrastructure & reliability
+- applied security
+- developer experience
 
-> _"Even when I’m gone, my bots continue to breathe life into my GitHub commits._  
-> _Because legends don’t die, they just automate." 🤖_
-
----
-
-### 🔗 Portfolio & Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| **Portfolio** | My digital hub | [pratiktiwari.com](https://pratiktiwari.com) |
-| **HireTip** | AI based career platform | [hiretip.co](https://hiretip.co) |
-| **HireTip Tips** | Career hiring tips & blogs | [hiretip.co/tips](https://hiretip.co/tips) |
-| **DevTonics** | A place where Dev & Ops meet | [devtonics.in](devtonics.in) |
-| **Expense Tracker** | Minimal and intuitive expense manager | [View](https://pratiktiwari.com/#/portfolio/expense-tracker) |
-| **Make My CV** | A resume builder with custom layouts and export options | [View](https://pratiktiwari.com/#/portfolio/resume-builder) |
-| **Event Invitation** | Elegant event invite web app | [View](https://pratikktiwari.github.io/Event-Invitation/) |
-| **Time Table Manager (Chrome Extension)** | Smart scheduling and class manager | [View](https://pratiktiwari.com/#/portfolio/time-table-manager) |
-| **Placement Assistance Chatbot** | Career helper chatbot for freshers | [View](https://pratiktiwari.com/#/portfolio/placement-assistance-chat-bot) |
-| **Recipe Search** | Food discovery tool with filters | [View](https://pratiktiwari.com/#/portfolio/recipe-search) |
-| **Quiz App (TS)** | A web quiz app built with TypeScript | [View](https://pratikktiwari.github.io/Quiz-app-typescript/) |
+I value clarity over cleverness and long-term maintainability over short-term wins.
 
 ---
 
-### 🛡️ CyberSec Demos & Challenges
+## Selected Work
 
-> Security is not a feature — it’s a mindset. Here's where I break things (for good):
+| Project | Focus | Link |
+|------|------|------|
+| **Note & Save** | Security blog | https://noteandsave.com |
+| **HireTip** | Career and resume tooling | https://hiretip.co |
+| **DevTonics** | Engineering, infra, and career content | https://devtonics.in |
+| **Portfolio** | Personal site & work | https://pratiktiwari.com |
 
-| Demo | Description | Link |
-|------|-------------|------|
-| **Clickjacking Demo** | Simple UI redress attack example | [Try it](https://pratikktiwari.github.io/xss/clickjacking/) |
-| **DOM XSS Challenges** | Interactive challenges for XSS learning | [Explore](https://pratikktiwari.github.io/xss/) |
+---
+
+## Security Demos (Curated)
+
+I maintain a small set of focused security demos designed for **learning and explanation**, not exploitation.
+
+| Demo | Focus | Link |
+|------|------|------|
+| **DOM XSS Challenges** | Client-side XSS fundamentals | [Explore](https://pratikktiwari.github.io/xss/) |
+| **Stored XSS Chat** | Persistent XSS and impact | [Code](https://github.com/pratikktiwari/group-chat-xss-node/) |
+| **Clickjacking Demo** | UI redress attack | [Try it](https://pratikktiwari.github.io/xss/clickjacking/) |
 | **Linux Terminal Emulator** | Simulated shell in browser | [Try it](https://pratikktiwari.github.io/) |
+| **Clickjacking Demo** | Simple UI redress attack example | [Try it](https://pratikktiwari.github.io/xss/clickjacking/) |
 | **Browser Freeze Demo** | Freeze via JS overload | [Trigger](https://pratikktiwari.github.io/xss/freeze-browser/) |
-| **Instagram Phishing Demo** | Educational phishing UI replica | [Caution!](https://pratikktiwari.github.io/xss/phishing/instagram/) |
-| **Cookie parser** | Client side cookie parser | [Visit](https://pratikktiwari.github.io/cookie-parser/) |
-| **Group Chat XSS** | Stored XSS demonstration | [Code](https://github.com/pratikktiwari/group-chat-xss-node/) |
-
 
 ---
 
-### 🧰 Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/logo192.png" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/javascript.png" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/java.png" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/php-logo.svg" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/bash.png" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/html.png" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/CSS.svg" height="30px"/> 
-  <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/logos/android.png" height="30px"/> 
-</p>
+JavaScript · TypeScript · Python · Java · Bash · ASP.NET MVC
+Linux · Docker · Kubernetes · Cloud · CI/CD  
+Web security · Observability · Reliability engineering
 
 ---
 
-### 🔒 On TryHackMe
-I tinker with cybersec puzzles at [TryHackMe](https://tryhackme.com/p/pratikktiwari).
+## Learning & Community
 
-<p align="center">
-  <a href="https://tryhackme.com/p/pratikktiwari">
-    <img src="https://raw.githubusercontent.com/pratikktiwari/pratikktiwari/main/pratikktiwari.png" height="50px"/>
-  </a>
-</p>
+- Security labs on TryHackMe: https://tryhackme.com/p/pratikktiwari  
+- Engineering & career content on Instagram: https://instagram.com/devtonics  
 
 ---
 
-### 📈 GitHub Activity
+## Notes
 
-> Alive forever, thanks to a little automation that makes random commits so my GitHub profile never rests 🧬
+I tend to prefer:
+- simple systems over complex ones  
+- automation over repetition  
+- boring production over exciting outages  
+- documentation that explains *why*, not just *what*  
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pratikktiwari/count.svg" alt="Visitor Count"/>
-</p>
-
-<!-- You can optionally uncomment your GitHub stats below -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikktiwari&show_icons=true&theme=tokyonight" />
-</p>
--->
-
----
-
-_Thanks for scrolling this far. If you did, you probably deserve a cup of tea ☕ too._
-
-Instagram: [@devtonics](https://instagram.com/devtonics)
+If you’re interested in backend systems, infra, security, or thoughtful engineering, you’ll likely find something here that resonates.
